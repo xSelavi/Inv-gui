@@ -1,0 +1,7 @@
+name: Invanitems
+version: '1.0-SNAPSHOT'
+main: me.davido.itemsininv.invanitems.Invanitems
+api-version: 1.18
+commands:
+  menu:
+    description: open inventory menu
